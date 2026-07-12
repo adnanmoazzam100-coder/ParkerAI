@@ -1,0 +1,7 @@
+.env 
+parker_env/ 
+model/ 
+MemoryBank/ 
+__pycache__/ 
+*.wav 
+*.mp3 
